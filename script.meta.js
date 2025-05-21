@@ -2,7 +2,7 @@
 // @name         Xbox 家庭组 尼区
 // @version      1.7
 // @namespace    ...
-// @author       erii
+// @author       mi0e
 // @include      https://*.xbox.com/*
 // @include      https://*.microsoft.com/*
 // @include      https://*.dynamics.com/*
