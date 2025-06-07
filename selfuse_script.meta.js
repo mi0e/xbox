@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Xbox 添加购物车
-// @version      2.1
+// @version      2.2
 // @namespace    ...
 // @author       mi0e
 // @include      https://*.xbox.com/*
@@ -11,4 +11,4 @@
 // @require https://cdn.jsdelivr.net/npm/sweetalert2@11
 // ==/UserScript==
 
-const disableUUIDs = ['123', '1234'];
+const disableUUIDs = ['test'];
