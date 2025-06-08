@@ -11,4 +11,4 @@
 // @require https://cdn.jsdelivr.net/npm/sweetalert2@11
 // ==/UserScript==
 
-const disableUUIDs = ['test'];
+const disableUUIDs = ['test', '123'];
