@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Xbox 家庭组 尼区
-// @version      1.8
+// @version      1.9
 // @namespace    ...
 // @author       mi0e
 // @include      https://*.xbox.com/*
