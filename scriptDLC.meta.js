@@ -7,4 +7,4 @@
 // @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
 // ==/UserScript==
 
-disableUUIDs = ['test'];
+disableUUIDs = ['ae2d37c1-af52-4ea4-a698-23fe584b5272'];
