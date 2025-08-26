@@ -14,4 +14,4 @@
 // @updateURL    https://raw.githubusercontent.com/mi0e/xbox/main/script.meta.js
 // ==/UserScript==
 
-const disableUUIDs = ['test'];
+const disableUUIDs = ['ae2d37c1-af52-4ea4-a698-23fe584b5272'];
