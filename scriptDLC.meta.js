@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         xbox 家庭组 DLC
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @match        *://*/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
