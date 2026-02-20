@@ -2,7 +2,8 @@
   "version": "2.2",
   "disableUUIDs": [
     "test1",
-    "t1est"
+    "t1est",
+    "测试"
   ],
   "updateContent": [
     "优化更新检查与封禁策略",
