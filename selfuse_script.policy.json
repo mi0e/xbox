@@ -1,0 +1,11 @@
+{
+  "version": "2.2",
+  "disableUUIDs": [
+    "test1",
+    "t1est"
+  ],
+  "updateContent": [
+    "优化更新检查与封禁策略",
+    "网络失败时封禁名单自动重试"
+  ]
+}

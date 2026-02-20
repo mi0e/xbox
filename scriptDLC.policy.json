@@ -1,0 +1,10 @@
+{
+  "version": "1.6",
+  "disableUUIDs": [
+    "ae2d37c1-af52-4ea4-a698-23fe584b5272"
+  ],
+  "updateContent": [
+    "优化更新检查与封禁策略",
+    "网络失败时封禁名单自动重试"
+  ]
+}
